@@ -1,2 +1,4 @@
 pytest
 black
+click
+jinja2
